@@ -51,7 +51,7 @@ both isometric and exploded view.
   * Table Pin.SLDPRT
   * Table.SLDDRW
   * Table.SLDPRT
-  * _375-16x1_25x1_25-c_shcsa.SLDPRT
+  * _375-16x1_25x1_25-c_shcsa.SLDPRT (Customized screw)
 3. Creo_Arbor_Press_Exploded_View.PNG
 4. Creo_Arbor_Press_Isometric_View.PNG
 5. SolidWorks_Arbor_Press_Exploded_View.PNG
