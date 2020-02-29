@@ -8,7 +8,7 @@ both isometric and exploded view.
 
 ### What's included in this repository?
 1. CREO_Arbor_Press (folder):
-   * Ball_End.prt.1
+  * Ball_End.prt.1
   * _164-32x_625x_625-c_shcs.prt.2 (Customized screw)
   * _375-16x1_25x1_25-c_shcs.prt.2 (Customized screw)
   * arbor_press.asm.14
